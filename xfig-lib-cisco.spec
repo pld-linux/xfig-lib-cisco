@@ -1,4 +1,5 @@
 Summary:	Network topology icons
+Summary(pl):	Ikony do topoloii sieci
 Name:		xfig-lib-cisco
 Version:	0.1
 Release:	1
@@ -9,8 +10,8 @@ Source0:	http://www.cisco.com/warp/public/503/3015_eps.zip
 URL:		http://www.cisco.com/warp/public/503/2.html
 BuildRequires:	pstoedit
 BuildRequires:	unzip
-BuildArch:	noarch
 Requires:	xfig
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -20,6 +21,14 @@ DISCLAIMER: Cisco Systems Inc. retains no copyrights or registration
 to use these icons. Cisco icons are globally recognized and accepted
 as the standard in network icon topologies. Use them freely without
 alteration.
+
+%description -l pl
+Ikony do topologii sieci od CISCO.
+
+Zrzeczenie: Cisco Systems Inc. nie zastrzega praw ani nie wymaga
+rejestracji do u¿ywania tych ikon. Ikony Cisco s± rozpoznawane i
+akceptowane na ca³ym ¶wiecie jako standard dla ikon u¿ywanych przy
+topologii sieci. Mo¿na ich u¿ywaæ bezp³atnie bez modyfikacji.
 
 %prep
 %setup -q -c
