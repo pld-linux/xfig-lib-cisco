@@ -5,7 +5,7 @@ Release:	1
 License:	no restrictions
 Group:		X11/Applications/Graphics
 Source0:	http://www.cisco.com/warp/public/503/3015_eps.zip
-# Source0-md5:	7547b66232569e3c12e4a0639bd92629
+# Source0-md5:	af19cabebe528494202e7a34bf9ba616
 URL:		http://www.cisco.com/warp/public/503/2.html
 BuildRequires:	pstoedit
 BuildRequires:	unzip
