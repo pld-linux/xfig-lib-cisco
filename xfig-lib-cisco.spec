@@ -1,5 +1,5 @@
 Summary:	Network topology icons
-Summary(pl.UTF-8):   Ikony do topologii sieci
+Summary(pl.UTF-8):	Ikony do topologii sieci
 Name:		xfig-lib-cisco
 Version:	0.1
 Release:	1
