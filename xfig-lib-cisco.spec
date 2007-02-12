@@ -1,5 +1,5 @@
 Summary:	Network topology icons
-Summary(pl):	Ikony do topologii sieci
+Summary(pl.UTF-8):   Ikony do topologii sieci
 Name:		xfig-lib-cisco
 Version:	0.1
 Release:	1
@@ -22,13 +22,13 @@ to use these icons. Cisco icons are globally recognized and accepted
 as the standard in network icon topologies. Use them freely without
 alteration.
 
-%description -l pl
+%description -l pl.UTF-8
 Ikony do topologii sieci od CISCO.
 
 Zrzeczenie: Cisco Systems Inc. nie zastrzega praw ani nie wymaga
-rejestracji do uøywania tych ikon. Ikony Cisco s± rozpoznawane i
-akceptowane na ca≥ym ∂wiecie jako standard dla ikon uøywanych przy
-topologii sieci. Moøna ich uøywaÊ bezp≥atnie bez modyfikacji.
+rejestracji do u≈ºywania tych ikon. Ikony Cisco sƒÖ rozpoznawane i
+akceptowane na ca≈Çym ≈õwiecie jako standard dla ikon u≈ºywanych przy
+topologii sieci. Mo≈ºna ich u≈ºywaƒá bezp≈Çatnie bez modyfikacji.
 
 %prep
 %setup -q -c
